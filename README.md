@@ -1,8 +1,8 @@
-# MNIST-digit-recognition-using-Keras-with-99.44%-accuracy
+# MNIST-digit-recognition-using-Keras-with-99.4%-accuracy
 
 MNIST is most basic neural network that every Deep learning enthsiat must have a hands on.
 
-**I tried this model and obtained a accuracy of 99.44%**
+**I tried this model and obtained a accuracy of 99.4%**
 
 Being new to deep learning i leaned basics of neural networks, kernals, channels, layer functions & activation functions and then i tried MNIST_dataset which was already present under keras.dataset. The dataset contains 6000 images whose dimensions are 28x28x1. 
 
